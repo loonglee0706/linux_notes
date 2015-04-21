@@ -1,6 +1,6 @@
 ##scp
 
-**scp [OPTIONS] file_source file_target **
+**scp [OPTIONS] file_source file_target**
 
 copy local to remote address
 
@@ -12,7 +12,7 @@ copy local to remote address
 
 `scp local_file remote_ip:remote_file`
 
-复制目录加参数 -r
+**复制目录加参数 -r**
 
 `scp -r local_folder remote_username@remote_ip:remote_folder `
 
