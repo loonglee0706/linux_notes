@@ -43,6 +43,7 @@ bzip2 -9 -c filename > filename.bz2
 ```
 
 ###bzcat 读取bzip2压缩的内容
+
 ```
 **bzcat filename**
 ```
